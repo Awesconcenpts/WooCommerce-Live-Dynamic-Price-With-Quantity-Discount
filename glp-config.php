@@ -40,7 +40,7 @@ $glp_contact_more_qty=get_option('glp_contact_more_qty');
 ?>
 <div class="wrap cstm-tble">
 
-	<h2><?php echo __('Gurkha Live Price','GLP'); ?></h2><br>
+	<h2><?php echo __('Awesome Live Price','GLP'); ?></h2><br>
 
    <form action="" method="post" name="form-targetted" id="form-targetted">
     <div class="glp_holder" role="tablist">
