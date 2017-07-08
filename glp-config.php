@@ -156,3 +156,4 @@ $glp_contact_more_qty=get_option('glp_contact_more_qty');
     </div>
 </form>
 </div>
+<!-- -->
